@@ -1,7 +1,7 @@
 
 GENERAL RFI SCANNER
 ============================
-Created by dr. Muhammad Sobri Maulana, CEH, OSCP
+Created by Muhammad Sobri Maulana
 
 Scan a host for rfi vulnerability
 suitable for some website like Indonesia, indian, australia, etc
